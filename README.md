@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi 👋 I'm Joginder
 
-<!--
-**Joginder-Kaur/Joginder-Kaur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎨 UI/UX Designer  
+🌐 Website & Landing Page Specialist  
 
-Here are some ideas to get you started:
+I design modern, conversion-focused landing pages for businesses and startups.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Portfolio Projects
+
+• Cleaning Service Landing Page  
+• Luxury Travel Consultant Landing Page  
+• HVAC SEO Agency Landing Page  
+• Consulting Agency Landing Page  
+
+---
+
+## 🛠 Tools I Use
+
+Figma  
+Adobe XD  
+Webflow  
+WordPress  
+Squarespace  
+UX Strategy  
+
+---
+
+## 📬 Connect With Me
+
+Upwork  
+Fiverr  
+Portfolio Website
