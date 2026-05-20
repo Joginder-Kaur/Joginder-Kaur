@@ -10,9 +10,9 @@ I engineer high-performance, conversion-focused digital ecosystems for enterpris
 
 ### /// Featured Architecture
 
-* **[B2B Service Conversion Ecosystem](https://github.com/Joginder-Kaur/local-cleaning-service-landing-page)** - *High-converting local service landing page engineered for rapid client acquisition.*
-* **[High-Ticket Travel Lead Architecture](https://github.com/Joginder-Kaur/luxury-travel-consultant-landing-page)** - *Strategic UI redesign maximizing lead generation for a premium travel consultancy.*
-* **[Corporate Consulting Digital Storefront](https://github.com/Joginder-Kaur/corporate-consulting-landing-page)** - *Premium build focusing on corporate authority, trust, and seamless user flow.*
+* **[B2B Service Conversion Ecosystem](https://github.com/Joginder-Kaur/b2b-service-conversion-ecosystem)** - *High-converting local service landing page engineered for rapid client acquisition.*
+* **[High-Ticket Travel Lead Architecture](https://github.com/Joginder-Kaur/high-ticket-travel-lead-architecture)** - *Strategic UI redesign maximizing lead generation for a premium travel consultancy.*
+* **[Corporate Consulting Digital Storefront](https://github.com/Joginder-Kaur/corporate-consulting-digital-storefront)** - *Premium build focusing on corporate authority, trust, and seamless user flow.*
 
 ### /// Tech Stack & Arsenal
 `Figma` | `Webflow` | `WordPress` | `Adobe XD` | `Squarespace` | `UX Strategy`
