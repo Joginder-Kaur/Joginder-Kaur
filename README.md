@@ -1,13 +1,13 @@
-# Hi 👋 I'm Joginder
+# Hi, I'm Joginder
 
-🎨 UI/UX Designer  
-🌐 Website & Landing Page Specialist  
+- UI/UX Designer  
+- Website & Landing Page Specialist  
 
 I design modern, conversion-focused landing pages for businesses and startups.
 
 ---
 
-## 🚀 Portfolio Projects
+##  Portfolio Projects
 
 • Cleaning Service Landing Page  
 • Luxury Travel Consultant Landing Page  
@@ -16,7 +16,7 @@ I design modern, conversion-focused landing pages for businesses and startups.
 
 ---
 
-## 🛠 Tools I Use
+##  Tools I Use
 
 Figma  
 Adobe XD  
@@ -27,8 +27,8 @@ UX Strategy
 
 ---
 
-## 📬 Connect With Me
+##  Connect With Me
 
 Upwork  
 Fiverr  
-Portfolio Website
+
