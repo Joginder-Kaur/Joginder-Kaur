@@ -17,4 +17,4 @@ I engineer high-performance, conversion-focused digital ecosystems for enterpris
 `Figma` | `Webflow` | `WordPress` | `Adobe XD` | `Squarespace` | `UX Strategy`
 
 ### /// Connect With Me
-[Upwork Profile]([#](https://www.upwork.com/freelancers/~01729b8606d67842f8)) | [Fiverr Storefront]([#](https://www.fiverr.com/s/EgBkQqD)) | [LinkedIn]([#](https://www.linkedin.com/in/joginder-kaur-888577401/))
+[Upwork Profile](https://www.upwork.com/freelancers/~01729b8606d67842f8) | [Fiverr Storefront](https://www.fiverr.com/s/EgBkQqD) | [LinkedIn](https://www.linkedin.com/in/joginder-kaur-888577401)
