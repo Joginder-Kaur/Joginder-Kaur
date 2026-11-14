@@ -13,7 +13,8 @@ Since 2018 I've designed and built websites, logos and brand guides for small bu
 
 ### In this account
 
-Landing page structures for different kinds of small businesses. AI project code will be added here as I publish it.
+- **[AI projects](https://github.com/Joginder-Kaur/ai-projects):** short screen recordings of eight AI demo builds, including a support chatbot, a voice receptionist, a booking assistant and n8n automations.
+- **Landing page structures** for different kinds of small businesses.
 
 ### Work with me
 
