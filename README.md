@@ -1,21 +1,20 @@
 # Hi, I'm Joginder
-**Lead Digital Architect & Conversion UX Engineer**
 
-I engineer high-performance, conversion-focused digital ecosystems for enterprise SaaS, tech startups, and premium service brands. I bridge the gap between high-fidelity UI design and robust, scalable frontend architecture.
+**AI chatbot & automation developer, and website & brand designer.**
 
-### /// Architectural Focus
-* **Enterprise UI/UX Design:** Figma, Wireframing, Interactive Prototyping
-* **Frontend Ecosystems:** Webflow, Custom WordPress, Headless Architecture
-* **Conversion Rate Optimization (CRO):** Data-driven layout structures & user psychology
+Since 2018 I've designed and built websites, logos and brand guides for small businesses, with more than 1,200 projects completed on Upwork. Now I also build AI chatbots, voice agents and n8n automations for the same kind of businesses.
 
-### /// Featured Architecture
+### What I work with
 
-* **[B2B Service Conversion Ecosystem](https://github.com/Joginder-Kaur/b2b-service-conversion-ecosystem)** - *High-converting local service landing page engineered for rapid client acquisition.*
-* **[High-Ticket Travel Lead Architecture](https://github.com/Joginder-Kaur/high-ticket-travel-lead-architecture)** - *Strategic UI redesign maximizing lead generation for a premium travel consultancy.*
-* **[Corporate Consulting Digital Storefront](https://github.com/Joginder-Kaur/corporate-consulting-digital-storefront)** - *Premium build focusing on corporate authority, trust, and seamless user flow.*
+- **AI chatbots and voice agents:** Botpress, Vapi, OpenAI API
+- **Automation:** n8n and API integrations
+- **Websites:** WordPress, Shopify, Squarespace, Wix
+- **Design:** Figma, logos and brand style guides
 
-### /// Tech Stack & Arsenal
-`Figma` | `Webflow` | `WordPress` | `Adobe XD` | `Squarespace` | `UX Strategy`
+### In this account
 
-### /// Connect With Me
-[Upwork Profile](https://www.upwork.com/freelancers/~01729b8606d67842f8) | [Fiverr Storefront](https://www.fiverr.com/s/EgBkQqD) | [LinkedIn](https://www.linkedin.com/in/joginder-kaur-888577401)
+Landing page structures for different kinds of small businesses. AI project code will be added here as I publish it.
+
+### Work with me
+
+[Upwork](https://www.upwork.com/freelancers/~01729b8606d67842f8) · [LinkedIn](https://www.linkedin.com/in/joginder-kaur-888577401/)
